@@ -7,9 +7,7 @@
 #include "Eigen/Core"
 #include <Eigen/StdVector>
 
-#include "ceres/ceres.h"
-#include "glog/logging.h"
-#include "ceres/rotation.h"
+#include "rotation.h"
 #include "tinycolormap.hpp"
 
 #include <nlohmann/json.hpp>
