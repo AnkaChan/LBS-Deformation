@@ -49,8 +49,6 @@
 #include <cmath>
 #include <limits>
 
-#include "glog/logging.h"
-
 namespace ceres {
 
 // Trivial wrapper to index linear arrays as matrices, given a fixed
